@@ -1,0 +1,4 @@
+﻿  MAIN_ONP.cpp
+C:\Users\ziemn\Documents\GitHub\0b74a7f4-gr10-repo\Projekt\MAIN_ONP\MAIN_ONP\MAIN_ONP.cpp(65,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\ziemn\Documents\GitHub\0b74a7f4-gr10-repo\Projekt\MAIN_ONP\MAIN_ONP\MAIN_ONP.cpp(145,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  MAIN_ONP.vcxproj -> C:\Users\ziemn\Documents\GitHub\0b74a7f4-gr10-repo\Projekt\MAIN_ONP\Debug\MAIN_ONP.exe
